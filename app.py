@@ -1,7 +1,6 @@
 # Основные импорты
 from flask import Flask
 
-
 # Импорт блюпринтов
 from main.views import main_blueprint
 from api.views import api_blueprint
